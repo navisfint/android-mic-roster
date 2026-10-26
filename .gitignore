@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.obj
+*.o
+*.pdb
+.gradle/
+local.properties
+
+# Output
+output/
+*.log
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data / large files
+*.zip
+*.7z
+*.apk
+*.wav
+*.mp3
+*.pt
+*.pth
+*.ckpt
